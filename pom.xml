@@ -14,7 +14,7 @@
 			<artifactId>maven-jar-plugin</artifactId>
 			<version>2.3.1</version>
 			<configuration>
-				<outputDirectory>target/com/bvinetworks/home/Properties/0.0.1</outputDirectory>
+				<outputDirectory>target/com/kkartikeya/home/Properties/0.0.1</outputDirectory>
 			</configuration>
 		</plugin>
 	</plugins>  
